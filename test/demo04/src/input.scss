@@ -1,0 +1,13 @@
+@component abc{
+    @descendent alert {
+        @modifier error{
+            color:red;
+        }
+    }
+}
+
+
+.title{
+    color:red;
+}
+

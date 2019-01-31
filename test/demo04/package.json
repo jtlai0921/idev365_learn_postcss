@@ -1,0 +1,21 @@
+{
+  "name": "demo04",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@mozheng-neal/postcss-bem": "^1.0.2",
+    "gulp": "^4.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "postcss": "^7.0.7",
+    "postcss-bem": "^0.4.1",
+    "postcss-bem-linter": "^3.1.0",
+    "postcss-calc": "^7.0.1",
+    "postcss-css-variables": "^0.11.0",
+    "postcss-each": "^0.10.0",
+    "postcss-for": "^2.1.1",
+    "postcss-mixins": "^6.2.1",
+    "postcss-nesting": "^7.0.0"
+  }
+}

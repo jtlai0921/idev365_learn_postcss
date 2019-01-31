@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["base.css"],"sourcesContent":[".title{\n    color:red;\n    display: flex;\n}"],"file":"../base.css"}
